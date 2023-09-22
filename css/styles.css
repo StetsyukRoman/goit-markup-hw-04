@@ -187,7 +187,6 @@ p {
     color: #434455;
     text-decoration: none;
     display: flex;
-    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .header-address-mail:hover,
@@ -203,6 +202,7 @@ p {
     line-height: 24px;
     letter-spacing: 0.02em;
     display: flex;
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .header-link-address:hover,
@@ -213,7 +213,6 @@ p {
 .header-address-tel {
     color: #434455;
     display: flex;
-    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .header-address-tel:hover,
